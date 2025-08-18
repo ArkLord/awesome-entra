@@ -349,6 +349,9 @@ These posts will make your head hurt, but in a good way.
 - [Undocumented Features - undocumented-features.com](https://www.undocumented-features.com/)
 - [Zero Trust - zerotrust.how](https://zerotrust.how/)
 - [Tech Mind Factory](https://www.techmindfactory.com)
+- https://www.linkedin.com/pulse/steves-cybersecurity-resources-62424-steve-turner-geare/
+- https://www.linkedin.com/pulse/marks-list-mark-simos/
+- 
   
 ### User Groups
 - [Dutch Microsoft Entra Community](https://aka.ms/dmec)
