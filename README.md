@@ -355,3 +355,10 @@ These posts will make your head hurt, but in a good way.
   
 ### User Groups
 - [Dutch Microsoft Entra Community](https://aka.ms/dmec)
+
+### Lab
+- https://microsoft.github.io/cloudlab/
+- https://microsoft.github.io/zerotrustassessment/docs/intro
+- https://azuread.github.io/MSIdentityTools/
+- https://microsoft.github.io/EntraIDGovernance-Training/
+- 
