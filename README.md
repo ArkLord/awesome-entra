@@ -362,3 +362,7 @@ These posts will make your head hurt, but in a good way.
 - https://azuread.github.io/MSIdentityTools/
 - https://microsoft.github.io/EntraIDGovernance-Training/
 - 
+
+
+MS SFI Secure Future Initiative 
+https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative#read-more-5
