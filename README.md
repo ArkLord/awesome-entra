@@ -374,3 +374,5 @@ https://cs50.harvard.edu/cybersecurity/
 
 https://css.csail.mit.edu/6.5660/2024/
 
+
+https://medium.com/open-learning/13-foundational-ai-courses-resources-from-mit-288d167ba301
