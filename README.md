@@ -367,3 +367,9 @@ These posts will make your head hurt, but in a good way.
 
 MS SFI Secure Future Initiative 
 https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative#read-more-5
+
+
+Cyber Course 
+https://cs50.harvard.edu/cybersecurity/
+https://css.csail.mit.edu/6.5660/2024/
+
