@@ -380,3 +380,6 @@ https://medium.com/open-learning/13-foundational-ai-courses-resources-from-mit-2
 
 
 https://standardcharteredfuturestate.udemy.com/course/oauth-2-simplified/learn/lecture/23715618#overview
+
+
+https://www.coursera.org/professional-certificates/google-it-automation
